@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    background: #ff1493;
+    display: block;
+    
+}
+.box-2 {
+    background: yellow;
+}
+
+.box-3 {
+    background: green;
+
+}
+
+ /* margin: 20px 30px 40px 50px;
+        12h  15h  18h  21h*/
+/* Box Sizzing/*
+
+}
